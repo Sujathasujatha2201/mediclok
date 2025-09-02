@@ -1,4 +1,0 @@
-streamlit
-PyMuPDF
-easyocr
-fpdf2
